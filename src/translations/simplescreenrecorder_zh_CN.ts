@@ -1929,49 +1929,49 @@ Are you sure that you want to quit?</source>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="689"/>
         <source>Started output.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出开始。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="759"/>
         <source>Error: Could not start the GLInject input because it has not been created.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：GLInject未创建，无法开始。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="556"/>
         <location filename="../GUI/PageRecord.cpp" line="698"/>
         <location filename="../GUI/PageRecord.cpp" line="783"/>
         <source>Error: Something went wrong during initialization.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：初始化时出错。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="709"/>
         <source>Stopping output ...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在停止输出 ...</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="727"/>
         <source>Stopped output.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出停止。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="754"/>
         <source>Starting input ...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在开始输入 ...</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="778"/>
         <source>Started input.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入开始。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="803"/>
         <source>Stopping input ...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在停止输入 ...</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="814"/>
         <source>Stopped input.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出停止。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="901"/>
@@ -1998,7 +1998,7 @@ Are you sure that you want to quit?</source>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="955"/>
         <source>Error: Something went wrong while creating the synth.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：合成时出错。</translation>
     </message>
     <message>
         <location filename="../GUI/PageRecord.cpp" line="995"/>
@@ -2045,67 +2045,67 @@ The start button is at the top ;).</source>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="28"/>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="37"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="38"/>
         <source>Save the current settings to this profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存当前配置到此配置文件。</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="39"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="40"/>
         <source>Create a new profile with the current settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>用当前配置创建一个新配置文件。</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="41"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="42"/>
         <source>Delete this profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除此配置文件。</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="96"/>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>（无）</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="139"/>
         <source>Error: Can&apos;t load profile!</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：你不能导入配置文件！</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="147"/>
         <source>Are you sure that you want to overwrite this profile?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要覆盖此配置文件？</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="159"/>
         <source>Enter a name for the new profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>为此配置文件输入一个文件名：</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="165"/>
         <source>A profile with the same name already exists. Are you sure that you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>一个同名配置文件已经存在。你确定要覆盖它？</translation>
     </message>
     <message>
         <location filename="../GUI/ProfileBox.cpp" line="181"/>
         <source>Are you sure that you want to delete this profile?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要删除这个配置文件？</translation>
     </message>
 </context>
 <context>
@@ -2114,33 +2114,33 @@ The start button is at the top ;).</source>
         <location filename="../common/Dialogs.cpp" line="35"/>
         <location filename="../common/Dialogs.cpp" line="72"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;确定</translation>
     </message>
     <message>
         <location filename="../common/Dialogs.cpp" line="36"/>
         <location filename="../common/Dialogs.cpp" line="73"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;取消</translation>
     </message>
     <message>
         <location filename="../common/Dialogs.cpp" line="37"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;是</translation>
     </message>
     <message>
         <location filename="../common/Dialogs.cpp" line="38"/>
         <source>Yes, always</source>
-        <translation type="unfinished"></translation>
+        <translation>是，永远</translation>
     </message>
     <message>
         <location filename="../common/Dialogs.cpp" line="39"/>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;否</translation>
     </message>
     <message>
         <location filename="../common/Dialogs.cpp" line="40"/>
         <source>No, never</source>
-        <translation type="unfinished"></translation>
+        <translation>否，从不</translation>
     </message>
 </context>
 <context>
